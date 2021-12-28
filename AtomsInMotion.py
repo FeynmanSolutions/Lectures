@@ -2,7 +2,6 @@
 
 """
 This is the source code for the video "Atoms in Motion".
-[Link to video]
 Developed by @Feynman.
 
 Render Command:
